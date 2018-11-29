@@ -1,0 +1,10 @@
+MANIFEST.in
+indico_plugin_vc_dummy.egg-info/PKG-INFO
+indico_plugin_vc_dummy.egg-info/SOURCES.txt
+indico_plugin_vc_dummy.egg-info/dependency_links.txt
+indico_plugin_vc_dummy.egg-info/entry_points.txt
+indico_plugin_vc_dummy.egg-info/not-zip-safe
+indico_plugin_vc_dummy.egg-info/requires.txt
+indico_plugin_vc_dummy.egg-info/top_level.txt
+indico_vc_dummy/__init__.py
+indico_vc_dummy/plugin.py

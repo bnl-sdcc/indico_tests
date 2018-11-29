@@ -1,0 +1,24 @@
+{
+  "build": {
+    "clientPath": "/home/caballer/dev/indico/plugins/base/vc_vidyo/indico_vc_vidyo/client", 
+    "distPath": "/home/caballer/dev/indico/plugins/base/vc_vidyo/indico_vc_vidyo/static/dist", 
+    "distURL": "/static/plugins/vc_vidyo/dist/", 
+    "indicoSourcePath": "/home/caballer/dev/indico/src", 
+    "rootPath": "/home/caballer/dev/indico/plugins/base/vc_vidyo/indico_vc_vidyo", 
+    "staticPath": "/home/caballer/dev/indico/plugins/base/vc_vidyo/indico_vc_vidyo/static", 
+    "staticURL": "/static/plugins/vc_vidyo/"
+  }, 
+  "indico": {
+    "build": {
+      "baseURLPath": "/", 
+      "clientPath": "/home/caballer/dev/indico/src/indico/web/client", 
+      "distPath": "/home/caballer/dev/indico/src/indico/web/static/dist", 
+      "distURL": "/dist/", 
+      "rootPath": "/home/caballer/dev/indico/src/indico", 
+      "staticPath": "/home/caballer/dev/indico/src/indico/web/static", 
+      "staticURL": "/"
+    }
+  }, 
+  "isPlugin": true, 
+  "themes": {}
+}

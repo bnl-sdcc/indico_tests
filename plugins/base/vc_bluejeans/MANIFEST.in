@@ -1,0 +1,6 @@
+graft indico_vc_bluejeans/static
+graft indico_vc_bluejeans/migrations
+graft indico_vc_bluejeans/templates
+graft indico_vc_bluejeans/translations
+
+global-exclude *.pyc __pycache__ .keep

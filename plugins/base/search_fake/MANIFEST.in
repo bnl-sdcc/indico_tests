@@ -1,0 +1,6 @@
+graft indico_search_fake/static
+graft indico_search_fake/templates
+graft indico_search_fake/translations
+include indico_search_fake/marc2short.xsl
+
+global-exclude *.pyc __pycache__ .keep

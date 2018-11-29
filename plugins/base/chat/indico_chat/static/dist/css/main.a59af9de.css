@@ -1,0 +1,16 @@
+/* This file is part of Indico. Copyright (C) 2002 - 2018 European Organization for Nuclear Research (CERN). Indico is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version. Indico is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should have received a copy of the GNU General Public License along with Indico; if not, see <http://www.gnu.org/licenses/>. */
+.plugin-chat.chat-mgmt .chat-custom-server { font-weight: bold; }
+
+.plugin-chat.chat-mgmt .chatroom + .chatroom { margin-top: 1em; }
+
+.plugin-chat.chat-mgmt #chat-log-form { margin-right: 2em; float: left; }
+
+.plugin-chat.chat-mgmt #chat-log-material { display: none; float: left; }
+
+.plugin-chat.chat-mgmt #chat-log-display-container { display: none; margin-top: 2em; }
+
+.plugin-chat.chat-mgmt iframe { width: 100%; height: 600px; margin-top: 1em; display: block; border: none; }
+
+.chat-log-material-create { padding-left: 2.4em; margin: 0.5em 0; }
+
+/*# sourceMappingURL=main.a59af9de.css.map*/

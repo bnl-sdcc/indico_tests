@@ -1,0 +1,3 @@
+[indico.plugins]
+livesync_fake = indico_livesync_fake.plugin:FakeLiveSyncPlugin
+

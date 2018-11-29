@@ -1,0 +1,24 @@
+{
+  "build": {
+    "clientPath": "/home/caballer/dev/indico/plugins/base/importer/indico_importer/client", 
+    "distPath": "/home/caballer/dev/indico/plugins/base/importer/indico_importer/static/dist", 
+    "distURL": "/static/plugins/importer/dist/", 
+    "indicoSourcePath": "/home/caballer/dev/indico/src", 
+    "rootPath": "/home/caballer/dev/indico/plugins/base/importer/indico_importer", 
+    "staticPath": "/home/caballer/dev/indico/plugins/base/importer/indico_importer/static", 
+    "staticURL": "/static/plugins/importer/"
+  }, 
+  "indico": {
+    "build": {
+      "baseURLPath": "/", 
+      "clientPath": "/home/caballer/dev/indico/src/indico/web/client", 
+      "distPath": "/home/caballer/dev/indico/src/indico/web/static/dist", 
+      "distURL": "/dist/", 
+      "rootPath": "/home/caballer/dev/indico/src/indico", 
+      "staticPath": "/home/caballer/dev/indico/src/indico/web/static", 
+      "staticURL": "/"
+    }
+  }, 
+  "isPlugin": true, 
+  "themes": {}
+}

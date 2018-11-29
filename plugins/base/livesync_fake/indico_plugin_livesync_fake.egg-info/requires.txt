@@ -1,0 +1,2 @@
+indico>=2.0
+indico-plugin-livesync>=1.0

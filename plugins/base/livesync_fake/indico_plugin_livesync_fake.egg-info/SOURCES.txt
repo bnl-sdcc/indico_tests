@@ -1,0 +1,15 @@
+MANIFEST.in
+indico_livesync_fake/__init__.py
+indico_livesync_fake/backend.py
+indico_livesync_fake/connector.py
+indico_livesync_fake/plugin.py
+indico_livesync_fake/translations/messages.pot
+indico_livesync_fake/translations/fr_FR/LC_MESSAGES/messages-js.po
+indico_livesync_fake/translations/fr_FR/LC_MESSAGES/messages.po
+indico_plugin_livesync_fake.egg-info/PKG-INFO
+indico_plugin_livesync_fake.egg-info/SOURCES.txt
+indico_plugin_livesync_fake.egg-info/dependency_links.txt
+indico_plugin_livesync_fake.egg-info/entry_points.txt
+indico_plugin_livesync_fake.egg-info/not-zip-safe
+indico_plugin_livesync_fake.egg-info/requires.txt
+indico_plugin_livesync_fake.egg-info/top_level.txt
